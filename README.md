@@ -1,7 +1,7 @@
 # MindEase 🌿
 ### *A quiet space to unburden.*
 
-> A bilingual (English + اردو) AI-powered mental wellness journaling app that listens to your words — and reads between the lines.
+> A bilingual (English + اردو) AI-powered mental wellness journaling app that listens to your words and reads between the lines.
 
 **Live app → [mindease-app-sable.vercel.app](https://mindease-app-sable.vercel.app)**  
 **Demo → [Watch on Loom](https://www.loom.com/share/d780f2e825044ca08af905b2a4e70023)**
@@ -12,7 +12,7 @@
 
 Most journaling apps store your thoughts. MindEase *listens* to them.
 
-It detects the gap between how you say you feel and how you actually write. It offers a companion that gives no advice — just company. It speaks Urdu. And it keeps your data entirely your own.
+It detects the gap between how you say you feel and how you actually write. It offers a companion that gives no advice, just company. It speaks Urdu. And it keeps your data entirely your own.
 
 ---
 
@@ -28,13 +28,13 @@ It detects the gap between how you say you feel and how you actually write. It o
 - **"You Felt vs We Sensed"** — detects the gap between your chosen mood and the emotional tone of your words
 - Pattern detection, theme tags, recurring word analysis
 - Urdu stress keyword detection — پریشان، اداس، مایوس and more
-- Powered by **Groq (Llama 3.3 70B)**
+- Powered by **Groq**
 
 ### 💬 Ease — AI Companion
 - Warm, conversational AI chat
 - No advice. No toxic positivity. Just company.
 - Remembers your journal context across the conversation
-- Powered by **Groq (Llama 3.3 70B)** with streaming responses
+- Powered by **Groq** with streaming responses
 
 ### 📊 Patterns Dashboard
 - 30-day mood trend chart
@@ -46,8 +46,8 @@ It detects the gap between how you say you feel and how you actually write. It o
 
 ### 🧘 Practices & Games
 - 4-7-8 breathing exercise
-- Fill the Day — color therapy
-- Burst the Stress — pop balloons to release worry
+- Fill the Day: color therapy
+- Burst the Stress: pop balloons to release worry
 - Constellations Connect
 - Gratitude prompts
 - Guided meditation
