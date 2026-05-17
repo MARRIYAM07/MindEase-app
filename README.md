@@ -145,8 +145,7 @@ All tables protected with **Row Level Security** — users can only access their
 
 *Every single feature came from a real moment of needing it.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marriyam%20Andeel-blue?style=flat&logo=linkedin)](https://linkedin.com/in/marriyamandeel)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marriyam%20Andeel-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marriyam-andeel/)
 ---
 
 > *"If you've ever written 'I'm fine' when you weren't — this one's for you."* 🤍
